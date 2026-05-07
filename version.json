@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8-build.20260507",
+    "version": "1.1.0-build.20260507",
     "url": "https://github.com/bendert8000/hoja-pos-android-release/releases/download/latest/app-release.apk",
-    "notes": "2026-05-07 22:51 GMT +0800\n\n- docs: track POS→ERP CORS handoff 2026-05-07 (resolved in c6aae89)\n- chore: release 1.0.7-build.20260507\n- fix(release): compute-version.mjs reads package.json by default — single source of truth"
+    "notes": "2026-05-08 01:24 GMT +0800\n\n- test: align test expectations with Settings + MenuRefreshFlash feature\n- feat(pos): Settings modal + richer Menu Update Flash with item diff counts\n- style(pos): tighten ProductCard layout — inline price, p-1 padding, ml-1 gap before ₱\n- feat(pos): flash 'Menu updated' toast when API pull lands menu changes"
 }
