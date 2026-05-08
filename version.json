@@ -1,5 +1,5 @@
 {
-    "version": "1.1.5-build.20260508",
+    "version": "1.1.6-build.20260508",
     "url": "https://github.com/bendert8000/hoja-pos-android-release/releases/download/latest/app-release.apk",
-    "notes": "2026-05-08 02:42 GMT +0800\n\n- fix(release): compute build dateStr from Philippines time, not UTC"
+    "notes": "2026-05-08 10:05 GMT +0800\n\n- feat(capacitor): WebView hostname → bluemountain.hoja.cafe"
 }
