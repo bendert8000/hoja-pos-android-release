@@ -1,5 +1,5 @@
 {
-    "version": "1.1.6-build.20260508",
+    "version": "1.1.7-build.20260510",
     "url": "https://github.com/bendert8000/hoja-pos-android-release/releases/download/latest/app-release.apk",
-    "notes": "2026-05-08 10:05 GMT +0800\n\n- feat(capacitor): WebView hostname → bluemountain.hoja.cafe"
+    "notes": "2026-05-10 23:20 GMT +0800\n\n- docs: sync CLAUDE.md + architecture guidelines to current code state\n- feat(pos): tighten GPS polling to 3min + transient location indicator\n- feat(pos): capture GPS accuracy alongside lat/lng on sales orders\n- feat(pos): capture GPS coordinates on sales orders"
 }
